@@ -21,7 +21,7 @@ const Footer = () => {
               <img src={Logo} alt="logo" className="w-[200px]" /> 
             </div> 
             <p>Kota Kinabalu, Sabah, Malaysia</p>
-            <p>@ 2024 Idekora All rights reserved</p>
+            <p>@ 2025 Idekora All rights reserved</p>
           </div>
           {/* Footer Link */}
           <div className="grid grid-cols-2 gap-3 text-center md:text-left">
@@ -66,15 +66,15 @@ const Footer = () => {
             <ul className="text-base font-semibold space-y-4">
               <li className="flex items-center justify-center md:justify-start space-x-3">
                 <FaPhone />
-                <a href="#">+91 123456789</a>
+                <a href="#">+60 1110457001</a>
               </li>
               <li className="flex items-center justify-center md:justify-start space-x-3">
                 <LuMessageSquare />
-                <a href="mailto:contact.placeholderxxx@gmail.com">Email</a>
+                <a href="mailto:contact.placeholderxxxxx@gmail.com">Email</a>
               </li>
               <li className="flex items-center justify-center md:justify-start space-x-3">
                 <FaWhatsapp className="text-green-500" />
-                <a href="https://wa.me/91123456789">WhatsApp</a>
+                <a href="https://wa.me/01110457001">WhatsApp</a>
               </li>
             </ul>
           </div>
@@ -82,7 +82,7 @@ const Footer = () => {
 
         {/* bottom section */}
         <p className="text-center text-sm font-semibold  border-t-2 pt-5 mt-5">
-          &copy; 2023 Idekora. All rights reserved
+          &copy; 2025 Idekora. All rights reserved
         </p>
       </div>
     </motion.footer>
